@@ -9,30 +9,30 @@
     <lastBuildDate>Tue, 01 Oct 2024 19:48:43 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>http://example.org/posts/markdown/</link>
+      <link>http://example.org/markdown/</link>
       <pubDate>Tue, 01 Oct 2024 19:48:43 +0200</pubDate>
       
-      <guid>http://example.org/posts/markdown/</guid>
+      <guid>http://example.org/markdown/</guid>
       <description>Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
       <title>Prueba</title>
-      <link>http://example.org/posts/prueba/</link>
+      <link>http://example.org/prueba/</link>
       <pubDate>Tue, 01 Oct 2024 19:48:12 +0200</pubDate>
       
-      <guid>http://example.org/posts/prueba/</guid>
+      <guid>http://example.org/prueba/</guid>
       <description>Bienvenido a Mi Página ¡Hola! Esta es una página sencilla creada con Markdown. Aquí puedes encontrar información básica sobre diversos temas.
 Temas de Interés Videojuegos Tecnología Educación Cultura </description>
     </item>
     
     <item>
       <title>Videojuegos</title>
-      <link>http://example.org/posts/videojuegos/</link>
+      <link>http://example.org/videojuegos/</link>
       <pubDate>Tue, 01 Oct 2024 19:47:37 +0200</pubDate>
       
-      <guid>http://example.org/posts/videojuegos/</guid>
+      <guid>http://example.org/videojuegos/</guid>
       <description>The Legend of Zelda The Legend of Zelda es una icónica serie de videojuegos creada por Nintendo. Lanzada por primera vez en 1986, la serie ha evolucionado a lo largo de los años, ofreciendo a los jugadores emocionantes aventuras en mundos abiertos llenos de enigmas, enemigos y exploración.
 Características del juego Mundo abierto: Los jugadores pueden explorar vastos paisajes y descubrir secretos. Resolución de acertijos: Los dungeons y templos están llenos de desafíos que requieren ingenio.</description>
     </item>

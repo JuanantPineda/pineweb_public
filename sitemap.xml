@@ -5,25 +5,22 @@
     <loc>http://example.org/tags/contenido/</loc>
     <lastmod>2024-10-01T19:48:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/markdown/</loc>
+    <loc>http://example.org/markdown/</loc>
     <lastmod>2024-10-01T19:48:43+02:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
     <lastmod>2024-10-01T19:48:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2024-10-01T19:48:43+02:00</lastmod>
-  </url><url>
     <loc>http://example.org/tags/</loc>
     <lastmod>2024-10-01T19:48:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/prueba/</loc>
+    <loc>http://example.org/prueba/</loc>
     <lastmod>2024-10-01T19:48:12+02:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/videojuegos/</loc>
     <lastmod>2024-10-01T19:47:37+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/videojuegos/</loc>
+    <loc>http://example.org/videojuegos/</loc>
     <lastmod>2024-10-01T19:47:37+02:00</lastmod>
   </url><url>
     <loc>http://example.org/contact/</loc>
