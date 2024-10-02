@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>videojuegos on PineWeb</title>
+    <link>https://pineweb-public.vercel.app/tags/videojuegos/</link>
+    <description>Recent content in videojuegos on PineWeb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-es</language>
+    <lastBuildDate>Tue, 01 Oct 2024 19:47:37 +0200</lastBuildDate><atom:link href="https://pineweb-public.vercel.app/tags/videojuegos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videojuegos</title>
+      <link>https://pineweb-public.vercel.app/videojuegos/</link>
+      <pubDate>Tue, 01 Oct 2024 19:47:37 +0200</pubDate>
+      
+      <guid>https://pineweb-public.vercel.app/videojuegos/</guid>
+      <description>The Legend of Zelda The Legend of Zelda es una icónica serie de videojuegos creada por Nintendo. Lanzada por primera vez en 1986, la serie ha evolucionado a lo largo de los años, ofreciendo a los jugadores emocionantes aventuras en mundos abiertos llenos de enigmas, enemigos y exploración.
+Características del juego Mundo abierto: Los jugadores pueden explorar vastos paisajes y descubrir secretos. Resolución de acertijos: Los dungeons y templos están llenos de desafíos que requieren ingenio.</description>
+    </item>
+    
+  </channel>
+</rss>
