@@ -6,7 +6,23 @@
     <description>Recent content in Posts on PineWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-es</language>
-    <lastBuildDate>Tue, 01 Oct 2024 19:48:43 +0200</lastBuildDate><atom:link href="https://pineweb20.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Oct 2024 10:22:58 +0200</lastBuildDate><atom:link href="https://pineweb20.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Script</title>
+      <link>https://pineweb20.netlify.app/posts/script/</link>
+      <pubDate>Mon, 07 Oct 2024 10:22:58 +0200</pubDate>
+      
+      <guid>https://pineweb20.netlify.app/posts/script/</guid>
+      <description>Mi script #!/bin/bash
+# Variables ruta_pagina=&amp;quot;/home/usuario/pineweb/&amp;quot;
+public=&amp;quot;public/*&amp;quot; respositorio_public=&amp;quot;/home/usuario/github/public/&amp;quot;
+# Cambiar al directorio de la página cd &amp;quot;$ruta_pagina&amp;quot; || { echo &amp;quot;Error: No se pudo cambiar al directorio $ruta_pagina&amp;quot;; exit 1; }
+#Creamos la pagina estatica con el comando hugo hugo &amp;gt; /dev/null 2&amp;gt;&amp;amp;1
+#Copiamos el contenido de la carpeta public y la pegamos en el repositorio
+rsync -av --delete $public $respositorio_public &amp;gt; /dev/null 2&amp;gt;&amp;amp;1
+#Realizamos un commit de la actualizacion de contenido y lo subimos</description>
+    </item>
+    
     <item>
       <title>Markdown</title>
       <link>https://pineweb20.netlify.app/posts/markdown/</link>
