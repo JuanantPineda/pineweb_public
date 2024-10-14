@@ -6,7 +6,16 @@
     <description>Recent content in Posts on PineWeb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-es</language>
-    <lastBuildDate>Mon, 07 Oct 2024 10:22:58 +0200</lastBuildDate><atom:link href="https://pineweb20.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 10:25:04 +0200</lastBuildDate><atom:link href="https://pineweb20.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pruebaprueba</title>
+      <link>https://pineweb20.netlify.app/posts/pruebaprueba/</link>
+      <pubDate>Mon, 14 Oct 2024 10:25:04 +0200</pubDate>
+      
+      <guid>https://pineweb20.netlify.app/posts/pruebaprueba/</guid>
+      <description>Introduccion a la implatacion de aplicaciones web Juan Antonio Pineda Amador </description>
+    </item>
+    
     <item>
       <title>Script</title>
       <link>https://pineweb20.netlify.app/posts/script/</link>
